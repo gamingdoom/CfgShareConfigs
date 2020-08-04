@@ -1,4 +1,4 @@
-# CfgShareConfigs
+# CFGShareConfigs
 Configs for the CFGShare application.
 
 # What is CFGShare?
